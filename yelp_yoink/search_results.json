@@ -1,0 +1,914 @@
+{
+    "businesses": [
+        {
+            "id": "ycL1qii6EpKXoLgMMboBIQ",
+            "alias": "pecan-lodge-dallas-3",
+            "name": "Pecan Lodge",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9aPP6Dp7IDXh6cjLlp33cg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pecan-lodge-dallas-3?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 4508,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 32.7835884,
+                "longitude": -96.7838669
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2702 Main St",
+                "address2": "",
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75226",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2702 Main St",
+                    "Dallas, TX 75226"
+                ]
+            },
+            "phone": "+12147488900",
+            "display_phone": "(214) 748-8900",
+            "distance": 6357.232139011169
+        },
+        {
+            "id": "GbKN-edIpqhNXH_iItk04w",
+            "alias": "velvet-taco-dallas",
+            "name": "Velvet Taco",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zvupNzPGNd2dOdJM59S2vw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/velvet-taco-dallas?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 2592,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 32.8216823671486,
+                "longitude": -96.7853808991681
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3012 N Henderson Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75206",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "3012 N Henderson Ave",
+                    "Dallas, TX 75206"
+                ]
+            },
+            "phone": "+12148238358",
+            "display_phone": "(214) 823-8358",
+            "distance": 2394.17683873596
+        },
+        {
+            "id": "vwQnJlj90NgYbbbVLQSpFg",
+            "alias": "meso-maya-comida-y-copas-dallas-4",
+            "name": "Meso Maya Comida Y Copas",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CvCM2sZuQU2q0kQatErZ_g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/meso-maya-comida-y-copas-dallas-4?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 2047,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "newmexican",
+                    "title": "New Mexican Cuisine"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 32.7876872301983,
+                "longitude": -96.8049378803092
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1611 Mckinney Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75202",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1611 Mckinney Ave",
+                    "Dallas, TX 75202"
+                ]
+            },
+            "phone": "+12144846555",
+            "display_phone": "(214) 484-6555",
+            "distance": 5725.338433149188
+        },
+        {
+            "id": "CPQEBDq7cspBB_AFYHvTDw",
+            "alias": "uchi-dallas",
+            "name": "Uchi",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/poj8fLu3CA7vRzMi2FxUNg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/uchi-dallas?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 1177,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 32.7968594931252,
+                "longitude": -96.8064853736551
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "2817 Maple Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75201",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2817 Maple Ave",
+                    "Dallas, TX 75201"
+                ]
+            },
+            "phone": "+12148555454",
+            "display_phone": "(214) 855-5454",
+            "distance": 4723.460454329221
+        },
+        {
+            "id": "aH3iLs5URV5sY-kNKVFyLA",
+            "alias": "maple-leaf-diner-dallas",
+            "name": "Maple Leaf Diner",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZG7N9KRgoEBBq6XemryinA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/maple-leaf-diner-dallas?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 2006,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 32.92347,
+                "longitude": -96.80524
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "12817 Preston Rd",
+                "address2": "Ste 129",
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75230",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "12817 Preston Rd",
+                    "Ste 129",
+                    "Dallas, TX 75230"
+                ]
+            },
+            "phone": "+12144341626",
+            "display_phone": "(214) 434-1626",
+            "distance": 9375.606691264125
+        },
+        {
+            "id": "bULVB0Q87mn4u2sNPjXTTQ",
+            "alias": "rodeo-goat-dallas",
+            "name": "Rodeo Goat",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qpdC5Q9ImVZj_e6EL_lMRA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rodeo-goat-dallas?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 1827,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 32.7971504231268,
+                "longitude": -96.8239863214264
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1926 Market Center Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75207",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1926 Market Center Blvd",
+                    "Dallas, TX 75207"
+                ]
+            },
+            "phone": "+12147414628",
+            "display_phone": "(214) 741-4628",
+            "distance": 5147.945817852955
+        },
+        {
+            "id": "j6j8IFLUUQA1WgwGqawtkw",
+            "alias": "rise-n-1-dallas",
+            "name": "rise n\u00b01",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Uov8jRtxNbBjoU-wj0zZvw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rise-n-1-dallas?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 1278,
+            "categories": [
+                {
+                    "alias": "french",
+                    "title": "French"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 32.8501283339466,
+                "longitude": -96.8201696447052
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "5360 W Lovers Ln",
+                "address2": "Ste 220",
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75209",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "5360 W Lovers Ln",
+                    "Ste 220",
+                    "Dallas, TX 75209"
+                ]
+            },
+            "phone": "+12143669900",
+            "display_phone": "(214) 366-9900",
+            "distance": 2209.761827649162
+        },
+        {
+            "id": "mXd9_jTBmaNn9lFVGo0XoA",
+            "alias": "jimmys-food-store-dallas",
+            "name": "Jimmy's Food Store",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QYprVMbjmnOvzg-EA6qFVw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jimmys-food-store-dallas?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 853,
+            "categories": [
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "winetastingroom",
+                    "title": "Wine Tasting Room"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 32.80413,
+                "longitude": -96.773666
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "4901 Bryan St",
+                "address2": "",
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75206",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "4901 Bryan St",
+                    "Dallas, TX 75206"
+                ]
+            },
+            "phone": "+12148236180",
+            "display_phone": "(214) 823-6180",
+            "distance": 4628.964105338854
+        },
+        {
+            "id": "kvcQrj5CutHBfSgcg236EA",
+            "alias": "uncle-ubers-dallas-2",
+            "name": "Uncle Uber's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wvXVuxaCs2kF1TbUEq3VPA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/uncle-ubers-dallas-2?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 1173,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 32.7834,
+                "longitude": -96.78341
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2713 Commerce St",
+                "address2": "",
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75226",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2713 Commerce St",
+                    "Dallas, TX 75226"
+                ]
+            },
+            "phone": "+12146538237",
+            "display_phone": "(214) 653-8237",
+            "distance": 6392.720165393783
+        },
+        {
+            "id": "3Y4GDcv5MTepbFYMbAo4MQ",
+            "alias": "hg-sply-co-dallas-dallas",
+            "name": "HG SPLY CO - Dallas",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JseGDjum0lp6pPx5mgg1bg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hg-sply-co-dallas-dallas?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 1503,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 32.8143559,
+                "longitude": -96.769792
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2008 Greenville Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75206",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2008 Greenville Ave",
+                    "Dallas, TX 75206"
+                ]
+            },
+            "phone": "+14693340895",
+            "display_phone": "(469) 334-0895",
+            "distance": 3973.4872117560194
+        },
+        {
+            "id": "_m82_xIX_7WL4MQfw7CA5Q",
+            "alias": "mikes-chicken-dallas",
+            "name": "Mike's Chicken",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GuO4yebC6DlK_T6aPNY2pg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mikes-chicken-dallas?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 839,
+            "categories": [
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 32.808448,
+                "longitude": -96.818527
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "4234 Maple Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75219",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "4234 Maple Ave",
+                    "Dallas, TX 75219"
+                ]
+            },
+            "phone": "+12144437822",
+            "display_phone": "(214) 443-7822",
+            "distance": 3791.4793164707935
+        },
+        {
+            "id": "RI0wzbqfyAgBL3xgFTzQ2Q",
+            "alias": "hopdoddy-burger-bar-dallas-5",
+            "name": "Hopdoddy Burger Bar",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hslxGwdOv9q1ntgIhw76YA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hopdoddy-burger-bar-dallas-5?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 1202,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 32.8634651,
+                "longitude": -96.8072497
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "6030 Luther Ln",
+                "address2": "Ste 100",
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75225",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "6030 Luther Ln",
+                    "Ste 100",
+                    "Dallas, TX 75225"
+                ]
+            },
+            "phone": "+12143632337",
+            "display_phone": "(214) 363-2337",
+            "distance": 2753.595910175625
+        },
+        {
+            "id": "vOsy9SLr3bjIkHPWFYxVWQ",
+            "alias": "meddlesome-moth-dallas",
+            "name": "Meddlesome Moth",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qYAng2ZqsCMsJMfblMW02g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/meddlesome-moth-dallas?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 1841,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 32.7968167432672,
+                "longitude": -96.8202942609787
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1621 Oak Lawn Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75207",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1621 Oak Lawn Ave",
+                    "Dallas, TX 75207"
+                ]
+            },
+            "phone": "+12146287900",
+            "display_phone": "(214) 628-7900",
+            "distance": 5045.335220567964
+        },
+        {
+            "id": "ZUBmtNBU0L45jIrMAgGeiQ",
+            "alias": "wabi-house-dallas",
+            "name": "Wabi House",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vfXyocokKD1hHaAGYLpRSw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wabi-house-dallas?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 1171,
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 32.8123013,
+                "longitude": -96.769967
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1802 Greenville Ave",
+                "address2": "Ste 100",
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75206",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1802 Greenville Ave",
+                    "Ste 100",
+                    "Dallas, TX 75206"
+                ]
+            },
+            "phone": "+14697796474",
+            "display_phone": "(469) 779-6474",
+            "distance": 4123.300981249043
+        },
+        {
+            "id": "CREIs-59rrp8OhG9VppCqA",
+            "alias": "ellens-dallas-4",
+            "name": "Ellen's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vGSmVFHrTYvz60loX2a-YQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ellens-dallas-4?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 2407,
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 32.7818955295251,
+                "longitude": -96.8076125410698
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1790 N Record St",
+                "address2": null,
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75202",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1790 N Record St",
+                    "Dallas, TX 75202"
+                ]
+            },
+            "phone": "+14692063339",
+            "display_phone": "(469) 206-3339",
+            "distance": 6388.8661678353365
+        },
+        {
+            "id": "9uaSZzLB7CEHGc4mokQxig",
+            "alias": "the-porch-dallas",
+            "name": "The Porch",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZwkvZQNkJjUHSPdkPjvCbQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-porch-dallas?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 1315,
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 32.82064248039,
+                "longitude": -96.784746955887
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2912 N Henderson Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75206",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2912 N Henderson Ave",
+                    "Dallas, TX 75206"
+                ]
+            },
+            "phone": "+12148282916",
+            "display_phone": "(214) 828-2916",
+            "distance": 2522.53565678719
+        },
+        {
+            "id": "gMICrvlFC4zKGKcGDtpxUQ",
+            "alias": "emporium-pies-dallas",
+            "name": "Emporium Pies",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1HxU-L6tPXdYOvW0qIzAPA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/emporium-pies-dallas?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 1165,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 32.7477188110352,
+                "longitude": -96.828125
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "314 N Bishop Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75208",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "314 N Bishop Ave",
+                    "Dallas, TX 75208"
+                ]
+            },
+            "phone": "+14692066126",
+            "display_phone": "(469) 206-6126",
+            "distance": 10477.333642792233
+        },
+        {
+            "id": "kgmPMAHlFjWAILBGLUSKuw",
+            "alias": "cane-rosso-dallas",
+            "name": "Cane Rosso",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Pyfi7Y0YtFQjPS8pOIxT_A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cane-rosso-dallas?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 1459,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 32.782503,
+                "longitude": -96.785507
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2612 Commerce St",
+                "address2": "",
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75226",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2612 Commerce St",
+                    "Dallas, TX 75226"
+                ]
+            },
+            "phone": "+12147411188",
+            "display_phone": "(214) 741-1188",
+            "distance": 6442.009813414365
+        },
+        {
+            "id": "vOUOAoPRW27oNJFJLhkNNQ",
+            "alias": "pappas-bros-steakhouse-dallas",
+            "name": "Pappas Bros Steakhouse",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pJjvgTwcEvUcofvyA0r-zQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pappas-bros-steakhouse-dallas?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 926,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 32.8668273689937,
+                "longitude": -96.8977529669342
+            },
+            "transactions": [],
+            "price": "$$$$",
+            "location": {
+                "address1": "10477 Lombardy Ln",
+                "address2": "",
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75220",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "10477 Lombardy Ln",
+                    "Dallas, TX 75220"
+                ]
+            },
+            "phone": "+12143662000",
+            "display_phone": "(214) 366-2000",
+            "distance": 9592.160920715294
+        },
+        {
+            "id": "Ij9ivfqGXtbqdYKyBEIFJA",
+            "alias": "spiral-diner-and-bakery-dallas",
+            "name": "Spiral Diner & Bakery",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/36IgA9UlZOAipXBQRSH90g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/spiral-diner-and-bakery-dallas?adjust_creative=dqpGWTrxZB20Dz8VKYEElA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dqpGWTrxZB20Dz8VKYEElA",
+            "review_count": 1082,
+            "categories": [
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 32.75674,
+                "longitude": -96.82319
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1101 N Beckley Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Dallas",
+                "zip_code": "75203",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1101 N Beckley Ave",
+                    "Dallas, TX 75203"
+                ]
+            },
+            "phone": "+12149484747",
+            "display_phone": "(214) 948-4747",
+            "distance": 9398.799560097907
+        }
+    ],
+    "total": 3700,
+    "region": {
+        "center": {
+            "longitude": -96.800537109375,
+            "latitude": 32.839043482398054
+        }
+    }
+}
